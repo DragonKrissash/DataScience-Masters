@@ -71,3 +71,6 @@
 2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
 2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
 2024-03-14 10:12:03,998 root INFO My final result is: [1, 2, 3, 34, 4, 2, 3, 4] and ['sudh', 'kumar']
+2024-03-14 10:51:11,450 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-03-14 10:51:11,452 Comm WARNING No such comm: 1f7388fd-9912-4b36-ab30-54fbe3b83873
+2024-03-14 10:51:11,453 Comm DEBUG Current comms: []
