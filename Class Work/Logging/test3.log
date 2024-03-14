@@ -74,3 +74,6 @@
 2024-03-14 10:51:11,450 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
 2024-03-14 10:51:11,452 Comm WARNING No such comm: 1f7388fd-9912-4b36-ab30-54fbe3b83873
 2024-03-14 10:51:11,453 Comm DEBUG Current comms: []
+2024-03-14 11:43:25,203 ipykernel.comm ERROR No such comm target registered: jupyter.widget.control
+2024-03-14 11:43:25,205 Comm WARNING No such comm: 84874614-f6bc-46ce-88f9-37e45cd3afe0
+2024-03-14 11:43:25,205 Comm DEBUG Current comms: []
