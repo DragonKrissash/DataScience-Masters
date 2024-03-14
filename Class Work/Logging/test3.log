@@ -1,0 +1,73 @@
+2024-03-14 10:05:03,809 root INFO This is my info logging
+2024-03-14 10:05:03,810 root ERROR This is my error message
+2024-03-14 10:05:03,810 root CRITICAL This is my critical message
+2024-03-14 10:05:05,812 root INFO WE are in 1st loop
+2024-03-14 10:05:05,812 root INFO WE are pushing 1st list
+2024-03-14 10:05:05,812 root INFO WE are in 1st loop
+2024-03-14 10:05:05,812 root INFO WE are pushing 1st list
+2024-03-14 10:05:05,812 root INFO WE are in 1st loop
+2024-03-14 10:05:05,812 root INFO WE are pushing 1st list
+2024-03-14 10:05:05,812 root INFO WE are in 1st loop
+2024-03-14 10:05:05,812 root INFO WE are pushing 1st list
+2024-03-14 10:05:05,812 root INFO WE are in 1st loop
+2024-03-14 10:05:05,812 root INFO WE are pushing 1st list
+2024-03-14 10:05:05,818 root INFO WE are in 1st loop
+2024-03-14 10:05:05,818 root INFO We are in 2nd loop
+2024-03-14 10:05:05,818 root INFO We are pushing 2nd list
+2024-03-14 10:05:05,818 root INFO We are pushing 2nd list
+2024-03-14 10:05:05,818 root INFO We are pushing 2nd list
+2024-03-14 10:05:05,818 root INFO WE are in 1st loop
+2024-03-14 10:05:05,818 root INFO WE are in 1st loop
+2024-03-14 10:07:30,630 root INFO WE are pushing 1st list
+2024-03-14 10:07:30,631 root INFO WE are pushing 1st list
+2024-03-14 10:07:30,633 root INFO WE are pushing 1st list
+2024-03-14 10:07:30,634 root INFO WE are pushing 1st list
+2024-03-14 10:07:30,635 root INFO WE are pushing 1st list
+2024-03-14 10:07:30,636 root INFO We are in 2nd loop
+2024-03-14 10:07:30,636 root INFO We are pushing 2nd list
+2024-03-14 10:07:30,636 root INFO We are pushing 2nd list
+2024-03-14 10:07:30,636 root INFO We are pushing 2nd list
+2024-03-14 10:07:44,070 root INFO WE are pushing 1st list
+2024-03-14 10:07:44,070 root INFO WE are pushing 1st list
+2024-03-14 10:07:44,071 root INFO WE are pushing 1st list
+2024-03-14 10:07:44,072 root INFO WE are pushing 1st list
+2024-03-14 10:07:44,073 root INFO WE are pushing 1st list
+2024-03-14 10:07:44,076 root INFO We are in 2nd loop
+2024-03-14 10:07:44,076 root INFO We are pushing 2nd list
+2024-03-14 10:07:44,076 root INFO We are pushing 2nd list
+2024-03-14 10:07:44,076 root INFO We are pushing 2nd list
+2024-03-14 10:07:49,364 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,364 root INFO WE are pushing 1st list
+2024-03-14 10:07:49,364 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,364 root INFO WE are pushing 1st list
+2024-03-14 10:07:49,364 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,364 root INFO WE are pushing 1st list
+2024-03-14 10:07:49,364 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,365 root INFO WE are pushing 1st list
+2024-03-14 10:07:49,365 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,365 root INFO WE are pushing 1st list
+2024-03-14 10:07:49,365 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,365 root INFO We are in 2nd loop
+2024-03-14 10:07:49,365 root INFO We are pushing 2nd list
+2024-03-14 10:07:49,365 root INFO We are pushing 2nd list
+2024-03-14 10:07:49,365 root INFO We are pushing 2nd list
+2024-03-14 10:07:49,365 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:07:49,365 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,996 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,997 root INFO WE are pushing 1st list
+2024-03-14 10:12:03,997 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,997 root INFO WE are pushing 1st list
+2024-03-14 10:12:03,997 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,997 root INFO WE are pushing 1st list
+2024-03-14 10:12:03,997 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,998 root INFO WE are pushing 1st list
+2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,998 root INFO WE are pushing 1st list
+2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,998 root INFO We are in 2nd loop
+2024-03-14 10:12:03,998 root INFO We are pushing 2nd list
+2024-03-14 10:12:03,998 root INFO We are pushing 2nd list
+2024-03-14 10:12:03,998 root INFO We are pushing 2nd list
+2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,998 root INFO WE are in 1st loop [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2024-03-14 10:12:03,998 root INFO My final result is: [1, 2, 3, 34, 4, 2, 3, 4] and ['sudh', 'kumar']
