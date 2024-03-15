@@ -5,6 +5,8 @@ db=cnt.connect(
     password='pass',
     port=3000
 )
-cur=db.cursor()
-cur.execute('CREATE TABLE if not exists test.employee(id INT UNIQUE PRIMARY KEY, name VARCHAR(50),salary INT);')
+cur = db.cursor()
+cur.execute('SELECT name,salary FROM pw.employee')
+for i in cur:
+    print(i)
 db.close()
